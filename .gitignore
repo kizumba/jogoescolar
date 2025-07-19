@@ -1,7 +1,5 @@
 # Diretórios e arquivos ignorados
 venv/
-./venv/
-
 __pycache__/
 *.pyc
 .DS_Store
