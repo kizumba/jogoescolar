@@ -1,6 +1,27 @@
 # Diretórios e arquivos ignorados
+# Virtual environment
+.venv/
 venv/
-__pycache__/
+
+# Python bytecode
 *.pyc
+__pycache__/
+
+# Flask instance folder
+instance/
+
+# Sensitive information
+.env
+
+# Testing artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and distribution files
+dist/
+build/
+*.egg-info/
+
+# Editor/OS specific files
 .DS_Store
-.env  # Se você usar um arquivo .env para variáveis de ambiente
