@@ -17,5 +17,6 @@ Comandos para execução ou trabalho com código. Utilizar terminal.
 ## Comandos
 
 * python3 -m venv venv
-* source ./venv/venv/activate
+* source ./venv/bin/activate
+* source .venv/bin/activate
 * deactivate
