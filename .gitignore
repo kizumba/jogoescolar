@@ -1,0 +1,8 @@
+# Diretórios e arquivos ignorados
+venv/
+./venv/
+
+__pycache__/
+*.pyc
+.DS_Store
+.env  # Se você usar um arquivo .env para variáveis de ambiente
