@@ -20,3 +20,12 @@ Comandos para execução ou trabalho com código. Utilizar terminal.
 * source ./venv/bin/activate
 * source .venv/bin/activate
 * deactivate
+
+# Ambiente Virtual
+Inicializar o venv antes de instalar qualquer biblioteca.
+
+# Pip
+
+## Comandos
+
+* pip install flask
